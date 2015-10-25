@@ -1,0 +1,10 @@
+{
+	"name": "web-plate",
+	"version": "0.0.1",
+	"description": "first time blog",
+	"dependencies": {
+		
+			"bootstrap": "3.3.1"
+		
+	}
+}
