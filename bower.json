@@ -1,10 +1,8 @@
 {
-	"name": "web-plate",
+	"name": "feboiler",
 	"version": "0.0.1",
-	"description": "first time blog",
+	"description": "noobsite learning yo",
 	"dependencies": {
-		
-			"bootstrap": "3.3.1"
 		
 	}
 }

@@ -1,8 +1,8 @@
-{
-  "name": "web-plate",
-  "description": "first time blog",
+ {
+  "name": "feboiler",
+  "description": "noobsite learning yo",
   "version": "0.0.1",
-  "author": "Mr Quinones",
+  "author": "Mr. Q",
   "engines": {
     "node": "0.10.x",
     "npm": "1.4.x"
@@ -12,7 +12,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "semantic-ui": "^2.1.4"
+    "semantic-ui": "^2.1.6"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
